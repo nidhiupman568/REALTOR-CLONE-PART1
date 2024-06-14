@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Home Page output
+
+![REALTOR HOME PAGE  1](https://github.com/nidhiupman568/REALTOR-CLONE-PART1/assets/130860182/945b3268-888d-44ee-94f3-1704ef28588a)
+
+![REALTOR HOME PAGE 2](https://github.com/nidhiupman568/REALTOR-CLONE-PART1/assets/130860182/5b20c813-9ae5-4ebb-8297-e920efc54596)
+
+![REALTOR](https://github.com/nidhiupman568/REALTOR-CLONE-PART1/assets/130860182/b3ae3d14-d839-48d4-b85d-fed2209af8c0)
+
+
+### offer Page output
+
+![REALTOR OFFER PAGE 1](https://github.com/nidhiupman568/REALTOR-CLONE-PART1/assets/130860182/1d1f4b3a-fb53-4897-b231-ea4b1e79b3df)
+
+
+### signin Page output
+
+![REALTOR SIGNIN PAGE 1](https://github.com/nidhiupman568/REALTOR-CLONE-PART1/assets/130860182/1a859d9a-e97b-46f7-8a7d-f8ddb0ea3541)
